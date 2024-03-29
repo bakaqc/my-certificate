@@ -10,7 +10,7 @@
             <td>📅 Year</td>
             <td>☁ Semester</td>
             <td>❤️ Subject</td>
-            <td>🖥 Description</td>
+            <td>🏆 Badges</td>
         </tr>
     </thead>
     <tbody>
