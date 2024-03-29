@@ -1,6 +1,8 @@
 # Certificate
 
-> All Certificate that I learned at FPT University QN AI Campus.
+> All the Certificates I have achieved at FPT University QN AI Campus.
+
+<br>
 
 ## Table of contents
 
@@ -18,7 +20,7 @@
             <td rowspan="2">2022</td>
             <td>🌊 Summer</td>
             <td>
-                🖥 <a href="#">Summit 2</a>
+                🖥 <a href="(English/ACADEMIC_PREPARATORY_ENGLISH_SUMMIT_2.pdf)">Summit 2</a>
             </td>
             <td>
                 ACADEMIC PREPARATORY ENGLISH
@@ -35,7 +37,7 @@
         </tr>
         <tr>
             <td rowspan="3">2023</td>
-            <td>🌱 Spring</td>
+            <td>🌸 Spring</td>
             <td>
                 🖥 <a href="#">NWC203c</a>
             </td>
