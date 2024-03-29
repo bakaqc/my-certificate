@@ -29,7 +29,7 @@
         <tr>
             <td>🍂 Fall</td>
             <td>
-                🖥 <a href="#">SSL101c</a>
+                🖥 <a href="Coursera/Academic_Skills_for_University_Success.pdf">SSL101c</a>
             </td>
             <td>
                 Academic Skills for University Success
@@ -39,7 +39,7 @@
             <td rowspan="3">2023</td>
             <td>🌸 Spring</td>
             <td>
-                🖥 <a href="#">NWC203c</a>
+                🖥 <a href="Coursera/Computer_Communications.pdf">NWC203c</a>
             </td>
             <td>
                 Computer Communications
@@ -48,7 +48,7 @@
         <tr>
             <td>🌊 Summer</td>
             <td>
-                🖥 <a href="#">WED201c</a>
+                🖥 <a href="Coursera/Web_Design_for_Everybody_Basics_of_Web_Development_and_Coding.pdf">WED201c</a>
             </td>
             <td>
                 Web Design for Everybody: Basics of Web Development & Coding
@@ -57,7 +57,7 @@
         <tr>
             <td>🍂 Fall</td>
             <td>
-                🖥 <a href="#">SWE201c</a>
+                🖥 <a href="Coursera/Software_Development_Lifecycle.pdf">SWE201c</a>
             </td>
             <td>
                 Software Development Lifecycle
@@ -67,7 +67,7 @@
             <td>2024</td>
             <td>🌸 Spring</td>
             <td>
-                🖥 <a href="#">ITE302c</a>
+                🖥 <a href="Coursera/CertNexus_Certified_Ethical_Emerging_Technologist.pdf">ITE302c</a>
             </td>
             <td>
                 CertNexus Certified Ethical Emerging Technologist
