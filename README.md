@@ -10,6 +10,7 @@
             <td>📅 Year</td>
             <td>☁ Semester</td>
             <td>❤️ Subject</td>
+            <td>🖥 Description</td>
         </tr>
     </thead>
     <tbody>
@@ -19,11 +20,17 @@
             <td>
                 🖥 <a href="#">Summit 2</a>
             </td>
+            <td>
+                ACADEMIC PREPARATORY ENGLISH
+            </td>
         </tr>
         <tr>
             <td>🍂 Fall</td>
             <td>
                 🖥 <a href="#">SSL101c</a>
+            </td>
+            <td>
+                Academic Skills for University Success
             </td>
         </tr>
         <tr>
@@ -32,11 +39,17 @@
             <td>
                 🖥 <a href="#">NWC203c</a>
             </td>
+            <td>
+                Computer Communications
+            </td>
         </tr>
         <tr>
             <td>🌊 Summer</td>
             <td>
                 🖥 <a href="#">WED201c</a>
+            </td>
+            <td>
+                Web Design for Everybody: Basics of Web Development & Coding
             </td>
         </tr>
         <tr>
@@ -44,12 +57,18 @@
             <td>
                 🖥 <a href="#">SWE201c</a>
             </td>
+            <td>
+                Software Development Lifecycle
+            </td>
         </tr>
         <tr>
             <td>2024</td>
             <td>🌸 Spring</td>
             <td>
-                🖥 <a href="https://github.com/fptqnk17/FER202">ITE302c</a>
+                🖥 <a href="#">ITE302c</a>
+            </td>
+            <td>
+                CertNexus Certified Ethical Emerging Technologist
             </td>
         </tr>
     </tbody>
