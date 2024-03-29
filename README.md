@@ -1,8 +1,6 @@
 # Certificate
 
-> All the Certificates I have achieved at FPT University QN AI Campus.
-
-<br>
+- All the Certificates I have achieved at FPT University QN AI Campus.
 
 ## Table of contents
 
