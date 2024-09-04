@@ -62,13 +62,31 @@
             </td>
         </tr>
         <tr>
-            <td>2024</td>
+            <td rowspan="3">2024</td>
             <td>🌸 Spring</td>
             <td>
                 🖥 <a href="Coursera/CertNexus_Certified_Ethical_Emerging_Technologist.pdf">ITE302c</a>
             </td>
             <td>
                 CertNexus Certified Ethical Emerging Technologist
+            </td>
+        </tr>
+        <tr>
+            <td>🌊 Summer</td>
+            <td>
+                🖥 <a href="Academic_English_Writing.pdf">ENW492c</a>
+            </td>
+            <td>
+                Academic English: Writing
+            </td>
+        </tr>
+        <tr>
+            <td>🍂 Fall</td>
+            <td>
+                🖥 <a href="React_Native.pdf">MMA301</a>
+            </td>
+            <td>
+                React Native
             </td>
         </tr>
     </tbody>
