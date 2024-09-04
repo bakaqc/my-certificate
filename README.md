@@ -62,7 +62,7 @@
             </td>
         </tr>
         <tr>
-            <td rowspan="3">2024</td>
+            <td rowspan="4">2024</td>
             <td>🌸 Spring</td>
             <td>
                 🖥 <a href="Coursera/CertNexus_Certified_Ethical_Emerging_Technologist.pdf">ITE302c</a>
@@ -74,19 +74,27 @@
         <tr>
             <td>🌊 Summer</td>
             <td>
-                🖥 <a href="Academic_English_Writing.pdf">ENW492c</a>
+                🖥 <a href="Coursera/Academic_English_Writing.pdf">ENW492c</a>
             </td>
             <td>
                 Academic English: Writing
             </td>
         </tr>
         <tr>
-            <td>🍂 Fall</td>
+            <td rowspan="2">🍂 Fall</td>
             <td>
-                🖥 <a href="React_Native.pdf">MMA301</a>
+                🖥 <a href="Coursera/React_Native.pdf">MMA301</a>
             </td>
             <td>
                 React Native
+            </td>
+        </tr>
+        <tr>          
+            <td>
+                🖥 <a href="Coursera/">PMG201c</a>
+            </td>
+            <td>
+                Project Management
             </td>
         </tr>
     </tbody>
