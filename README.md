@@ -18,7 +18,7 @@
             <td rowspan="2">2022</td>
             <td>🌊 Summer</td>
             <td>
-                🖥 <a href="English/ACADEMIC_PREPARATORY_ENGLISH_SUMMIT_2.pdf">Summit 2</a>
+                🖥 <a href="Orthers/ACADEMIC_PREPARATORY_ENGLISH_SUMMIT_2.pdf">Summit 2</a>
             </td>
             <td>
                 ACADEMIC PREPARATORY ENGLISH
@@ -62,7 +62,7 @@
             </td>
         </tr>
         <tr>
-            <td rowspan="4">2024</td>
+            <td rowspan="5">2024</td>
             <td>🌸 Spring</td>
             <td>
                 🖥 <a href="Coursera/CertNexus_Certified_Ethical_Emerging_Technologist.pdf">ITE302c</a>
@@ -72,7 +72,15 @@
             </td>
         </tr>
         <tr>
-            <td>🌊 Summer</td>
+            <td rowspan="2">🌊 Summer</td>
+            <td>
+                🖥 <a href="Orthers/On-The-Job%20Training.pdf">OJT202</a>
+            </td>
+            <td>
+                On-The-Job Training
+            </td>
+        </tr>
+        <tr>
             <td>
                 🖥 <a href="Coursera/Academic_English_Writing.pdf">ENW492c</a>
             </td>
